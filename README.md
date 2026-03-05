@@ -78,15 +78,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-Home Page
-Services Page
-Contact Page
-
-(Add screenshots here if needed)
-
----
 
 ## 🎯 Purpose of the Project
 
